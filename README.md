@@ -4,6 +4,7 @@
 ----
 1. [What ?](#what-)
    1. [Main Reference](#main-reference)
+   2. [NextJs Resource Github](#nextjs-resource-github)
 2. [Branch](#branch)
 
 ----
@@ -22,6 +23,15 @@ The following is the main course reference
 - Each one will be in its own branch 
 - Also for testing it will be hosted on vercel 
 - Braches dont have sharp delienation 
+
+## NextJs Resource Github 
+
+1. This is the main github which has the tut files last time when attempting this you have problems so keeping this reference here now 
+
+[`https://github.com/gitdagray/next-js-course`](https://github.com/gitdagray/next-js-course)
+- This has been downloaded here 
+
+
 
 # Branch 
 
