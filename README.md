@@ -36,5 +36,7 @@ The following is the main course reference
 
 ## Starting up a new Nextjs  Project 
 
-
-
+```sh 
+pnpx create-next-app@latest --experimental-app
+```
+- Note using `pnpx` instead of npx
