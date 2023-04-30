@@ -5,7 +5,8 @@
 1. [What ?](#what-)
    1. [Main Reference](#main-reference)
    2. [NextJs Resource Github](#nextjs-resource-github)
-2. [Branch](#branch)
+2. [Work Section](#work-section)
+   1. [Starting up a new Nextjs  Project](#starting-up-a-new-nextjs--project)
 
 ----
 
@@ -31,9 +32,9 @@ The following is the main course reference
 [`https://github.com/gitdagray/next-js-course`](https://github.com/gitdagray/next-js-course)
 - This has been downloaded here 
 
- 
+# Work Section 
 
-# Branch 
+## Starting up a new Nextjs  Project 
 
 
 
